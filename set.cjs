@@ -1,6 +1,6 @@
 // GIFTED TECH //
 const fs = require("fs");
-require("dotenv").config();
+require("dot.env").config();
 
 const config = {
   SESSION_ID: process.env.SESSION_ID || "Gifted~MqaFfkQX",
